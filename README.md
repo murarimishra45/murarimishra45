@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Third-year **B.Tech IT** student at RKGIT Ghaziabad (2027) — CGPA: **8.2/10**
+- 🎓 fourth-year **B.Tech IT** student at RKGIT Ghaziabad (2027) — CGPA: **8.2/10**
 - 💻 Full-Stack Developer experienced with **MERN Stack** & **Next.js**
 - 🧠 Solved **200+ DSA problems** on LeetCode & GeeksforGeeks
 - 🏆 **1st Prize** at Tech Trivia 3.0 | Finalist at Binary Hackathon 3.0 & Bi-Blitz
